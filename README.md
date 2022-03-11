@@ -1,6 +1,6 @@
 # Hi there, I'm Danny👋 
 
-I'm a third year CS + STAT student from the university of british columbia. Currently working on a wide variety of personal projects in javascript, C# and Python.
+I'm a third year CS + STAT student from the university of british columbia. Currently having lots of fun learning Machine Learning at my internship at Copperleaf Technologies.
 I absolutely love exploring the random ideas that pop into my head and am always curious about the world around me. In my free time i like to solve puzzles and learn
 what ever kind of strange and abstract math topic I can.
 
@@ -9,7 +9,7 @@ Welcome to my github, stay for aslong as you would like!
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/dlwei)
+[(./img/linkedin-light.svg)](https://linkedin.com/in/dlwei)
 
 ### Languages and Tools:
 
