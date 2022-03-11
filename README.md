@@ -22,7 +22,3 @@ Welcome to my github, stay for aslong as you would like!
 [<img align="left" alt="Oracle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Terminal" width="26px" src="./terminal-light.svg" />]
-
-
-<br />
-<br />
