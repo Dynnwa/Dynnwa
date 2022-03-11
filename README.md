@@ -9,7 +9,7 @@ Welcome to my github, stay for aslong as you would like!
 
 ### Connect with me:
 
-[(./linkedin-light.svg)](https://linkedin.com/in/dlwei)
+[![website](./linkedin-light.svg)](https://linkedin.com/in/dlwei)
 
 ### Languages and Tools:
 
