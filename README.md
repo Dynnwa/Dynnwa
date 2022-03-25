@@ -1,6 +1,6 @@
 # Hi there👋 
 
-I'm a third year CS + STAT student from the University of British Columbia. Currently having lots of fun learning Machine Learning at my internship at Copperleaf Technologies.
+I'm a CS + STAT student from the University of British Columbia. Currently having lots of fun learning Machine Learning at my internship at Copperleaf Technologies.
 I absolutely love exploring the random ideas that pop into my head and am always curious about the world around me. In my free time i like to solve puzzles and learn
 what ever kind of strange and abstract math topic I can.
 
